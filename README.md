@@ -54,15 +54,14 @@
 	- [01-도커 실행](workshop/01/01.md)
 	- [02-학습 이미지 생성하기](workshop/01/02.md)
 2. Orchestration
-	- [01-명령도구 마스터](workshop/02/01.md)
-	- [02-Pod 살펴보기](workshop/02/02.md)
-	- [03-Job 리소스](workshop/02/03.md)
+	- [03-명령도구 마스터](workshop/02/03.md)
+	- [04-Pod 살펴보기](workshop/02/04.md)
+	- [05-Job 리소스](workshop/02/05.md)
 3. Deployment
 	- [01-배치 예측](workshop/03/01.md)
 	- [02-모델 서빙](workshop/03/02.md)
 	- [03-모델 배포를 위한 CI/CD](workshop/03/03.md)
 4. Kubeflow
-	- [01-Pipeline](workshop/04/01.md)
-	- [02-Fairing](workshop/04/02.md)
+	- [04-Pipeline](workshop/04/01.md)
+	- [05-Fairing (Optional)](workshop/04/02.md)
 5. [Project (Optional)](workshop/05/01.md)
-
