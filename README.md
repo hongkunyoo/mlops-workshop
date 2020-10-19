@@ -63,5 +63,5 @@
 	- [03-모델 배포를 위한 CI/CD](workshop/03/03.md)
 4. Kubeflow
 	- [04-Pipeline](workshop/04/01.md)
-	- [05-Fairing (Optional)](workshop/04/02.md)
+	- [05-Fairing](workshop/04/02.md)
 5. [Project (Optional)](workshop/05/01.md)
