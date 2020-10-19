@@ -61,7 +61,7 @@
 	- [01-배치 예측](workshop/03/01.md)
 	- [02-모델 서빙](workshop/03/02.md)
 	- [03-모델 배포를 위한 CI/CD](workshop/03/03.md)
-4. Kubeflow
+4. Kubeflow 맛보기
 	- [04-Pipeline](workshop/04/01.md)
 	- [05-Fairing](workshop/04/02.md)
 5. [Project (Optional)](workshop/05/01.md)
